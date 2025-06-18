@@ -1,5 +1,4 @@
 <?php
-<?php
 
 $rss_urls = [
     "https://ir.voanews.com/api/zkup_l-vomx-tpejiyy",
