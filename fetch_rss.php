@@ -3,8 +3,8 @@
 $rss_urls = [
     "https://ir.voanews.com/api/zkup_l-vomx-tpejiyy",
     "https://rss.app/feeds/3YTxjPFrG2MV3b94.xml",
-    "https://www.radiofarda.com/api/zpoqil-vomx-tpe_kip",
-    "https://www.bbc.com/persian/index.xml"
+    "https://rss.app/feeds/RYkNR9czMzD2JFNr.xml",
+    "https://rss.app/feeds/5CL8m0d0tIvja3TO.xml"
 ];
 
 $all_news = [];
